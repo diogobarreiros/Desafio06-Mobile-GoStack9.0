@@ -34,5 +34,8 @@ module.exports = {
     'react/state-in-constructor': 0,
     'react/static-property-placement': 0,
     'no-throw-literal': 0,
+    'react/no-typos': 0,
+    'react/sort-comp': 0,
+    'react/prop-types': 0,
   },
 };
